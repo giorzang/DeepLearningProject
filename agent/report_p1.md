@@ -7,7 +7,7 @@
 - [1. Tổng quan đề tài](#1-tổng-quan-đề-tài)
 - [2. Phân tích dữ liệu thăm dò (EDA)](#2-phân-tích-dữ-liệu-thăm-dò-eda)
 - [3. Tiền xử lý dữ liệu](#3-tiền-xử-lý-dữ-liệu)
-- Phần 2: Kiến trúc mô hình, Thực nghiệm, Triển khai, Kết luận → [bao_cao_chi_tiet_p2.md](file:///home/icpc/.gemini/antigravity/brain/baccad75-ea29-4e30-87fc-d0f765892f38/artifacts/bao_cao_chi_tiet_p2.md)
+- Phần 2: Kiến trúc mô hình, Thực nghiệm, Triển khai, Kết luận → [report_p2.md](file://report_p2.md)
 
 ---
 
