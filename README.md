@@ -35,15 +35,12 @@ BTL/
 # 1. Install dependencies
 pip install -r requirements.txt
 
-# 2. Preprocess (extract text & tabular features)
+# 2. Preprocess (extract text & tabular & image features)
 python run.py preprocess
 
-# 3. Extract image features (OOM-safe version)
-python extract_images.py
-
-# 4. Train the model
+# 3. Train the model
 python run.py train
 
-# 5. Generate submission
+# 4. Generate submission
 python run.py predict
 ```
